@@ -18,6 +18,7 @@ public class PlayerTies2Test {
                 {'X', 'X', 'O'},
                 {'O', 'X', 'X'},
                 {'X', 'O', 'O'}
+
         });
     }
 
